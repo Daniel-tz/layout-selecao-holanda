@@ -76,8 +76,7 @@ body {
 .estudante-todos{
     display: grid;
     grid-template-columns: 20% 20% 20% 20% 20%;
-    background-color: rgb(180, 16, 16);
-}
+    background-color: rgba(156, 174, 177, 0.411);
 
 .rodape{
     background-color: rgb(255, 145, 0);
